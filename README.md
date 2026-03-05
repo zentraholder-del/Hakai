@@ -6,6 +6,13 @@ We also JUST updated forthe lastest release of Minecraft.
 
 Go have some fun and rock PvP with Hakai
 
+<img width="1315" height="696" alt="image" src="https://github.com/user-attachments/assets/ef0bbfd0-9de5-47e0-814e-50c82c7bf95e" />
+
+# LOOK WE ARE SAFE 5/69 THATS VERY LOW COMPARED TO OUR COMPETITORS 
+
+Trojan:Win32/Wacatac.B!ml Will appear on any unsigned program
+We would like to sign it but it costs €300/yr
+
 
 # Hakai 
 
