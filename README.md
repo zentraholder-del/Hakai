@@ -1,3 +1,12 @@
+# V2 JUST RELEASED!
+
+New modules and faster features are now available!
+
+We also JUST updated forthe lastest release of Minecraft.
+
+Go have some fun and rock PvP with Hakai
+
+
 # Hakai 
 
 Hakai is a free minecraft bedrock hacked client made with love for the community.
