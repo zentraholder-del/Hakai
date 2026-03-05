@@ -37,6 +37,9 @@ Velocity
 Problem: Hakai API is not on
 Fix: This mean Hakai is down and not updated. Join our discord to get notified when a update comes out.
 
+Problem: The loader says Hakai is down!
+Fix: Its self explanitory hakai is down and will be up soon!
+
 Problem: My antivirus says its a virus!
 Fix: Disable all anti viruses and try again.
 
